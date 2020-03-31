@@ -13,7 +13,7 @@ let head = function(array) {
   
   return result;
 
-}
+};
 
 assertEqual(head([5,6,7]), 5);
 assertEqual(head(["Hello", "Lighthouse", "Labs"]), "Hello");
