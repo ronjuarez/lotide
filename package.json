@@ -1,0 +1,24 @@
+{
+  "name": "@ronjuarez/lotide",
+  "version": "1.0.0",
+  "description": "this is a mini clone of the lodash library created by ronjuarez to learn js concepts @ lhl",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronjuarez/lotide.git"
+  },
+  "author": "Ron Juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronjuarez/lotide/issues"
+  },
+  "homepage": "https://github.com/ronjuarez/lotide#readme"
+}
